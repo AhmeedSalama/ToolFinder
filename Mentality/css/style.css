@@ -375,7 +375,7 @@ font-weight: bold;
 }
 @media (max-width:690px) {
 .find{
-    background-image: url(/back.png);
+    background-image: url(back.png);
     background-position: center;
     background-repeat: no-repeat;
     display: flex;
@@ -485,7 +485,7 @@ font-weight: bold;
 }
 
 .remote-working{
-    background-image: url(/0_Q267icGcIOtJgVsj.webp);
+    background-image: url(0_Q267icGcIOtJgVsj.webp);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
